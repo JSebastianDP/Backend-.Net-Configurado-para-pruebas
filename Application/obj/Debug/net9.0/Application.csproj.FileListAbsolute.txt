@@ -13,3 +13,4 @@ C:\Users\Sebastian Diaz\Desktop\BackendAvanzado\Application\obj\Debug\net9.0\App
 C:\Users\Sebastian Diaz\Desktop\BackendAvanzado\Application\obj\Debug\net9.0\refint\Application.dll
 C:\Users\Sebastian Diaz\Desktop\BackendAvanzado\Application\obj\Debug\net9.0\Application.pdb
 C:\Users\Sebastian Diaz\Desktop\BackendAvanzado\Application\obj\Debug\net9.0\ref\Application.dll
+C:\Users\Sebastian Diaz\Desktop\BackendAvanzado\Application\obj\Debug\net9.0\Application.sourcelink.json

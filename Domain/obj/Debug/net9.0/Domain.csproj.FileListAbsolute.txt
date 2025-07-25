@@ -9,3 +9,4 @@ C:\Users\Sebastian Diaz\Desktop\BackendAvanzado\Domain\obj\Debug\net9.0\Domain.d
 C:\Users\Sebastian Diaz\Desktop\BackendAvanzado\Domain\obj\Debug\net9.0\refint\Domain.dll
 C:\Users\Sebastian Diaz\Desktop\BackendAvanzado\Domain\obj\Debug\net9.0\Domain.pdb
 C:\Users\Sebastian Diaz\Desktop\BackendAvanzado\Domain\obj\Debug\net9.0\ref\Domain.dll
+C:\Users\Sebastian Diaz\Desktop\BackendAvanzado\Domain\obj\Debug\net9.0\Domain.sourcelink.json
